@@ -94,15 +94,7 @@
 
 ---
 
-## 📈 **Contribution Stats**
 
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=kalai7788&theme=github-dark)
-
-</div>
-
----
 
 <div align="center">
 
