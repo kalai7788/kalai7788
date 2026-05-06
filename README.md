@@ -83,19 +83,6 @@
 
 ---
 
-## 💖 **Support My Work**
-
-<div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/)
-[![Support](https://img.shields.io/badge/💸-Sponsor%20Me-1DB954?style=for-the-badge)](https://github.com/sponsors/kalai7788)
-
-</div>
-
----
-
-
-
 <div align="center">
 
 ### 💬 “Code is where imagination meets precision.”  
